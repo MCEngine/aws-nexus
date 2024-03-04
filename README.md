@@ -4,3 +4,5 @@
     <img width="300" src="https://opencollective.com/public/images/opencollectivelogo.svg" alt="Open Collective">
   </a>
 </div>
+
+If you get an `aws` error permission denied, look [here](https://docs.docker.com/engine/install/linux-postinstall)
